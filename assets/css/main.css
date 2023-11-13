@@ -1,0 +1,1402 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+   margin:0px; padding:0px; overflow-x: hidden;
+}
+.mySlides {display:none;}
+/*-----------------------------
+    banner + top area start
+------------------------------*/
+
+.top-bar{
+    margin: 0px; padding:0px; position:absolute; z-index:1; width:100%; top:0; }
+
+.top-bar img{
+    margin: 10px; padding:0px;
+}
+.menu{
+    margin: 30px; padding:0px; text-align: center;}
+.menu a{
+    margin: 0px 10px 0px 5px; padding: 0px 0 0 0; font-size: 16px; text-decoration: none; text-align: center; display: inline; font-weight: bold; color:#9e9e9e; text-transform: uppercase; 
+}
+.menu a:hover{
+    color:#9c1414; transition:0.8s;
+}
+.logo{
+    margin: 10px; padding: 10px;
+}
+.logo img{
+    margin: 0px -1px 0 20px; padding: 0px;
+}
+.socl{
+    margin: 18px 0 0px 20px; padding: 12px 0 0 0;
+}
+.socl a{
+    margin: 18px -18px 0px 46px; 
+    padding: 10px 10px 10px 10px; 
+    color: red; 
+    background-color:#ffffff;
+}
+.socl i{
+    width: 20px; height:20px; text-align: center;
+}
+.socl a:hover{
+    background-color: red; color: white; transition:0.8s;
+
+}
+.slider
+    {margin:0px; padding:0px; position:relative;}
+
+.tst h4{
+    margin:-350px 0 0 75px; padding:0px; position:absolute; font-size: 60px; color: black;
+}
+.tst p{
+    margin:-250px 0 0 75px; padding:0px 0 0 0; position:absolute; font-size: 20px; color: black; text-transform: capitalize;
+}
+/*-----------------------------
+    banner + top area End
+------------------------------*/
+ 
+ /*-----------------------------
+    why choose us start
+------------------------------*/
+
+.main-wel {
+    margin: 0px; padding: 0px;
+}
+.line{
+    margin: 0px; padding: 0px;
+}
+.line img{
+    margin: 40px 0 0 0px; padding: 70px 0 0 0;
+}
+.line h6{
+    margin: -14px 0 0 10px; padding: 0 0 0px 100px; font-weight: bold; 
+}
+.line h1{
+    margin: 0 0 0 0px; padding: 20px 0 0 0; font-family: 'Poppins', sans-serif; font-weight: bold;
+}
+.line h2{
+    margin: 0 0 0 0px; padding: 20px 0 30px 0px; font-family: 'Poppins', sans-serif; font-weight: bold;
+}
+.line p{
+    margin: 0 50px 0 -25px; 
+    padding: 30px 0 0 30px; 
+    font-family: 'Poppins', sans-serif; 
+    text-align: justify;
+    color:#6b6b6b;
+    font-size: 12px;
+}
+.heading{
+    margin: 0px 0 10px -50px; padding: 0px;
+}
+.heading img{
+    margin: 0 0 0 60px; padding: 10px 0 0 0;
+}
+.heading h6{
+    margin: -14px 0 0 70px; padding: 0 0 0px 100px; font-weight: bold; text-transform: capitalize;
+}
+.heading h2{
+    margin: 10px 0 0 60px; padding: 20px 0 30px 0px; font-family: 'Poppins', sans-serif; font-weight: bold; text-transform: capitalize;
+}
+.cstm-srvce{
+    margin: 0px; padding: 0px;
+}
+.cstm-srvce img{
+    margin: 40px 0 0px 2px; padding: 30px 14px 0 0;
+}
+.cstm-box{
+    margin:50px -40px 0 15px;
+    padding:0px;
+    width: 330px; height: 170px; border: 2px solid; border-color:grey ; border-bottom: 0px;
+}
+.cstm-box .box-text{
+    position: relative;
+}
+.box-text h2 .box-text p{
+    position: absolute;
+}
+.cstm-box img{
+    margin: 0px;
+    padding:45px 0 0 20px;
+}
+.box-text h2{
+    margin: -85px 0 0 110px;
+    padding:0px 0 0 0px;
+    font-size: 20px; font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.box-text p{
+    margin: 18px 0 0 110px;
+    padding:0px 0 0 0px;
+    font-size: 15px; font-family: 'Poppins', sans-serif;
+    color:#bbbbbb;
+}
+.cstm-box02{
+    margin:0px -40px 0 15px;
+    padding:0px;
+    width: 330px; height: 170px; border: 2px solid; border-color:grey ;
+}
+.cstm-box02 .box-text02{
+    position: relative;
+}
+.box-text02 h2 .box-text02 p{
+    position: absolute;
+}
+.cstm-box02 img{
+    margin: 0px;
+    padding:45px 0 0 20px;
+}
+.box-text02 h2{
+    margin: -85px 0 0 110px;
+    padding:0px 0 0 0px;
+    font-size: 20px; font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.box-text02 p{
+    margin: 18px 0 0 110px;
+    padding:0px 0 0 0px;
+    font-size: 15px; font-family: 'Poppins', sans-serif;
+    color:#bbbbbb;
+}
+.cstm-box03{
+    margin:50px -40px 0 45px;
+    padding:0px;
+    width: 330px; height: 172px; border: 2px solid; border-color:grey ; border-left: 0px; ;
+}
+.cstm-box03 .box-text03{
+    position: relative;
+}
+.box-text03 h2 .box-text03 p{
+    position: absolute;
+}
+.cstm-box03 img{
+    margin: 0px;
+    padding:45px 0 0 20px;
+}
+.box-text03 h2{
+    margin: -85px 0 0 110px;
+    padding:0px 0 0 0px;
+    font-size: 17px; font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.box-text03 p{
+    margin: 22px 0 0 110px;
+    padding:0px 0 0 0px;
+    font-size: 15px; font-family: 'Poppins', sans-serif;
+    color:#bbbbbb;
+}
+.cstm-box04{
+    margin:0px -40px 0 45px;
+    padding:0px;
+    width: 330px; height: 168px; border: 2px solid; border-color:grey ; border-left: 0px; border-top: 0px;
+}
+.cstm-box03 .box-text04{
+    position: relative;
+}
+.box-text04 h2 .box-text04 p{
+    position: absolute;
+}
+.cstm-box04 img{
+    margin: 0px;
+    padding:45px 0 0 20px;
+}
+.box-text04 h2{
+    margin: -85px 0 0 110px;
+    padding:0px 0 0 0px;
+    font-size: 20px; font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.box-text04 p{
+    margin: 20px 0 0 110px;
+    padding:0px 0 0 0px;
+    font-size: 15px; font-family: 'Poppins', sans-serif;
+    color:#bbbbbb;
+}
+/*-----------------------------
+    why choose us End
+------------------------------*/
+
+/*-----------------------------
+       Welcome Start
+------------------------------*/
+.wel-bg{
+    margin: 20px 0px 0 0; padding: 0px 0 0px 0px; height: 390px; background-color: red;
+}
+.wel-bg p{
+    margin: 0px 0px 0 0px; padding:100px 0px 0 0px; color:white; font-size: 15px;
+}
+.video{
+    margin: 10px 0px 0px 0px; padding:10px 80px 0 90px;
+} 
+.video img{
+    margin: 30px 0px 0 80px; padding:5px 0px 0 0px;
+}
+.rmbt {
+    margin: 35px 0 0 -50px; padding: 0 0 0 0;
+}
+.rmbt button{
+    margin: 0px 30px 0 50px; padding:0 30px 0px 20px; border: 0; width:150px; height:60px; border: 0; background-color:black;
+}
+.rmbt button:hover{
+    background-color: white; transition: 0.90s;
+}
+.rmbt h3{
+    margin: 0px; padding:0 0 0 5px; text-align: center; text-transform: capitalize; font-size: 16px; color: white; font-family: 'Poppins', sans-serif; font-weight: bold;
+}
+.rmbt h3:hover{
+    color: black;
+}
+/*-----------------------------
+         Welcome End
+------------------------------*/
+
+/*-----------------------------
+    Categories start
+------------------------------*/
+cat-main{
+    margin: 0px 0px 0 0; padding:0px; position: relative;
+}
+cat-img {
+    margin: 0px; padding:0px; position: relative;
+}
+nam-bg {
+    margin: 0 0 0px 0px; padding:0 0 0 0; position: absolute; top: 0px; bottom: 0px; z-index: 1;
+}
+nam-bg {
+    margin: 246px 0 0px 0px; padding:40px 0 0px 0; background-color: red; width: 191px; height: 191px; border-radius: 0 350px 0 0; position: absolute;
+}
+nam-bg02 {
+    margin: 0 0 0px 0px; padding:0 0 0 0; position: absolute;
+}
+nam-bg02 {
+    margin: 0px 0 0px 0px; padding: 0px 0 0px 0; background-color:#ff0000; opacity: 40%; width: 220px; height: 220px; border-radius: 0 400px 0 0; position: absolute; bottom:0px; z-index:back
+}
+.text{
+    margin: 0 0 0px 0px; padding:0 0 0 0;
+}
+.text img{
+    margin: 0px 0px 0px 15px; padding: 10px; color: white;
+}
+.text h2 {
+    margin: 30px 0px 0 15px; padding: 10px; font-size: 18px; font-family: 'Poppins', sans-serif; color: white; text-transform: capitalize; font-weight:lighter; position: absolute; top: 300px; bottom: 50px; z-index: 1;
+}
+.text h3 {
+    margin: 130px 0 0px 0px; padding: 10px; font-size: 25px; text-transform: capitalize; color: #ffffff; font-family: 'Bebas Neue', cursive; font-weight: 500; position: absolute; top: 246px; bottom: 50px;
+}
+.radious{
+    margin: 0px 0 0 0px; padding: 0px;
+}
+.radious img{
+    margin: 0px 0 0 0px; padding: 0px; top: 246px; bottom: 50px; position: absolute; 
+}
+.radious-02{
+    margin: 0px 0 0 0px; padding: 0px;
+}
+.radious-02 img{
+    margin: 0px 0 0 0px; padding: 0px; position: absolute; top: 220px; bottom: 0px;
+}
+
+.cat-main .cat-inner {
+    position: relative;
+}
+.cat-main .cat-inner .cat-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cat-main .cat-inner .bg-img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cat-main .cat-inner .bg-img-1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cat-main .cat-inner .hover {
+    opacity: 0;
+    transition: 0.45s;
+}
+.cat-main .cat-inner:hover .hover {
+    opacity: 1;
+}
+.cat-text {
+    margin: 0px 0 0px 0px; 
+    padding: 0px;}
+.cat-text h2 {
+        margin: 0px 0 30px 20px; 
+        padding: 0px 0 0 0;    
+        font-size: 15px; 
+        text-transform: capitalize; 
+        color: white; font-family: 'Bebas Neue', sans-serif; 
+        font-weight: 400;}
+.cat-text h4 {
+    margin: 50px 0 0px 10px; 
+    padding: 0px 0 0px 10px;
+    font-size: 14px; 
+    text-transform: capitalize; 
+    color: white; font-family: 'Poppins', sans-serif; 
+    font-weight: 100;
+}
+.cat-text img {
+    margin: 0px 0px 0 21px; 
+    padding: 0px 0 0px 0px;
+    
+}
+.cat-main .cat-inner{
+    position:relative
+}
+.cat-main .cat-inner .cat-text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cat-main .cat-inner .bg-img{
+    position: absolute;
+    bottom:0;
+    left:0;
+}
+.cat-main .cat-inner .bg-img-02{
+    position: absolute;
+    bottom:0px;
+    left:0;
+}
+.cat-main .cat-inner .hover{
+    opacity: 0;
+    transition: 0.45s;
+}
+.cat-main .cat-inner:hover .hover{
+    opacity: 1;
+}
+.cat-inner .cat-text{
+    margin: 0px 0 0px 0; 
+    padding: 0px;
+}
+.cat-text h2{
+    margin: 10px 0 40px 20px; 
+    padding: 0px; font-weight: 500; 
+    font-size: 14px; font-family: 'Poppins', sans-serif; 
+    text-decoration: none; text-transform: capitalize; 
+}
+.cat-text h4{
+    margin: 0px 0 0px 20px; padding: 0px; 
+    font-weight: 400; font-size: 12px; font-family: 'Poppins', sans-serif; 
+    text-decoration: none; text-transform: capitalize; 
+}
+
+
+
+
+.cat-second{
+    margin: 0px; padding: 0px;
+}
+.cat-second .inner{
+    position: relative;
+}
+.cat-second .inner .bg-img{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cat-second .inner .bg-img-04{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cat-second .text04{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cat-second .inner .hover{
+    opacity: 0;
+    transition: 0.45s;
+}
+.cat-second .inner:hover .hover{
+    opacity: 1;
+}
+.inner .cat-img{
+    position: relative;
+}
+.cat-inner .cat-img .text04{
+    position: absolute;
+}
+.cat-img .bg-img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.cat-img .bg-img-04 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.text04{
+    margin: 0px 0 0px 0 
+}
+.text04 h2{
+    margin: 0px 0 0px 20px; padding: 0 0 40px 0; 
+    font-size: 14px; color: white; 
+    font-weight: 500; text-transform: capitalize; 
+    font-family: 'Poppins', sans-serif; 
+}
+.text04 h4{
+    margin: 0px 0 0px 20px; padding: 0 0 0 0; 
+    font-size: 12px; color: white; text-transform: capitalize; 
+}
+.text04 h2{
+    margin: 0px 0 0px 20px; padding: 0 0 40px 0; 
+    font-size: 14px; color: white; 
+    font-weight: 500; text-transform: capitalize; 
+    font-family: 'Poppins', sans-serif; 
+}
+.text04 h4{
+    margin: 0px 0 0px 20px; padding: 0 0 0 0; 
+    font-size: 12px; color: white; text-transform: capitalize; 
+}
+.text04 img{
+    margin: 0px 0 0px 20px; padding: 0 0 0px 10px; 
+}
+
+.class02{
+    margin: 0px 0 20px 0; padding: 0px 0 0px 0;
+}
+.class02 img{
+    margin: 30px 0 0px 0; padding: 0px 0 0px 0;
+}
+.text04 img{
+    margin: 10px 0 0px 20px; padding: 0 0 0px 0; color: white;}
+.text04 h5{
+    margin: 0px 15px -10px 0px; 
+    padding: 0px 0 0px 0; font-weight: 500; 
+    font-size: 7px; font-family: 'Poppins', sans-serif; 
+    text-decoration: none; text-transform: capitalize; 
+    color: white; text-align: center;
+}
+.text04 h6{
+    margin: 0px 0px 15px 15px; padding: 0px 0 0px 0; 
+    font-weight: 400; font-size: 8px; font-family: 'Poppins', sans-serif; 
+    text-decoration: none; text-transform: capitalize;
+    color: white;
+}
+.text04 img{
+    margin: 0px 0 0px 20px; padding: 0 0 0px 0;
+}
+.cat-inner .cat-img .hover{
+    opacity: 0;
+    transition: 0.45s;
+}
+.cat-inner .cat-img:hover .hover{
+    opacity: 1;
+}
+.class02 .cat-img .hover{
+    opacity: 0;
+    transition: 0.45s;
+}
+.class02 .cat-img:hover .hover{
+    opacity: 1;
+}
+/*-----------------------------
+    Categories End
+------------------------------*/
+
+
+
+
+
+/*-----------------------------
+    feature start
+------------------------------*/
+
+.swiper-container {
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    left: 0%;
+    right: 0%;
+  }
+
+.swiper-slide {
+    margin: 0 0 0 0; padding: 0px;
+}
+.feure-main{
+    margin: 0; padding:0px;
+}
+.feature-products{
+    margin: 0 auto; width: 85%; left: auto; right: auto;
+}
+.feure-img {
+    margin: 0px; padding:0px;
+    position: relative;
+    left: 0px; right: 0px;
+}
+.fea-text {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%);
+    
+}
+.fea-text h2{
+    margin: 0px; padding:0px; 
+    font-size:13px; color: black; 
+    text-transform: capitalize; 
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold; text-align: center;
+}
+.fea-text h3{
+    margin: 0px; padding:10px; 
+    font-size:13px; color: black; 
+    text-transform: capitalize; 
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold; text-align: center;   
+}
+.feure-img {
+    margin: 0px 0 0 0; padding: 0px;
+}
+.feure-img {
+    border-radius: 5px; border: 1px solid grey;
+}
+.feure-img:hover{
+    border-radius: 5px; border: 1px solid #f12525; transition: 0.45s;
+}
+
+
+/*-----------------------------
+    feature End
+------------------------------*/
+
+
+
+/*-----------------------------
+    our Team Start
+------------------------------*/
+.main-testmal{
+    margin: 0px 0 0px -10px; padding: 0px;
+}
+.testmal{
+    margin: 0px 0 10px 0; padding: 0px;
+}
+.testmal img{
+    margin: 0 0 0 -3px; padding: 20px 0 0 0;
+}
+.testmal h6{
+    margin: -14px 0 0 8px; padding: 0 0 0px 100px; font-weight: bold;
+}
+.testmal h2{
+    margin: 10px 0 0 -2px; padding: 20px 0 30px 0px; font-family: 'Poppins', sans-serif; font-weight: bold;
+}
+
+.team-bg {
+    margin: 0px; padding: 50px; background-color: #fe0000; width:100%; height: 249px; position: relative;
+}
+.team-bg img{
+    position: absolute
+}
+.team-bg{
+    margin: 0px; padding: 30px; background-color: #fe0000;
+}
+.tm{
+    margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;
+}
+.tm h2{
+    margin:0px 0 0px 0px; padding:17px 0px 0px 175px; font-weight: 600; text-transform: capitalize; font-size: 18px; color: #ffffff;
+}
+.tm p{
+    margin:20px 0px 0px 0px; padding:0px 0px 0px 175px; text-transform: lowercase; font-size: 14px; color: #ffffff; font-family: 'Poppins', sans-serif;
+}
+.tm img{
+    margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;
+}
+.tm01{
+    margin:0px 0px 0px 150px;
+}
+
+.tm01 h2{
+    margin:0px 0px 0px 0px; padding:20px 85px 0 0px; font-weight: 600; text-transform: capitalize; font-size: 18px; text-align: center; color: #ffffff;
+}
+.tm01 p{
+    margin:15px 0px 0px 0px; padding:0px 0px 0px 121px; text-transform: lowercase; font-size: 14px; text-align: left; color: #ffffff; font-family: 'Poppins', sans-serif;
+}
+.tm01 img{
+    margin: 5px 0 0 -50px; padding: 0px 0 0 0px;
+}
+.rm01{
+    margin: 35px 0 0 112px; padding:0 30px 50px 0;
+}
+.rm01 button{
+    margin: -10px 0 10px 10px; padding: 0px 0px 0 0px ; border: 0; height: 55px; background: black;
+}
+.rm01 button h4{
+    margin: 5px 0 0 22px; padding: 0 25px 5px 0px; font-weight: bold; text-transform: capitalize; font-size: 13px; text-align: center; color: white;
+}
+.rm01 :hover h4{
+    color: black; transition: 0.5s;
+}
+.rm01 button{
+    background: black; transition: 0.45s;
+}
+.rm01 button:hover{
+    background:white;
+}
+.rm{
+    margin: 25px 0 0 225px; padding:0 30px 50px 0;
+}
+.rm button{
+    margin: -5px 0 0px -50px; padding: 0px 0px 0 0px ; border: 0; height: 55px; background: black;
+}
+.rm button h4{
+    margin: 5px 0 0 22px; padding: 0 25px 5px 0px; font-weight: bold; text-transform: capitalize; font-size: 13px; text-align: center; color: white;
+}
+.rm :hover h4{
+    color: black; transition: 0.5s;
+}
+.rm button:hover{
+    background: white; transition: 0.45s;
+}
+
+/*-----------------------------
+    our Team End
+------------------------------*/
+
+
+
+
+
+/*-----------------------------
+    Footer Start
+------------------------------*/
+.foot-bg{
+    margin: 0px; padding: 0px; height: 420px; background-color: #202020; position:relative
+}
+.foot-bg img{
+    margin: 50px 0px 0 7px; padding: 0px; width: 110px; height: 35px;
+}
+.foot-bg p{
+    margin: 30px 0 0 7px; padding: 0px 100px 0 0; color:#787777; font-size: 12px; text-transform: lowercase; font-family: 'Poppins', sans-serif; 
+}
+.payment img{
+    margin: 70px 0 0 7px; padding: 0 0 0 0 ; width: 350px; height: 30px;
+}
+.map{
+    margin: 50px 0 0 20px; padding: 0px; 
+}
+.map h5{
+    margin: 50px 0 0 0px; padding: 0px 0 0 0; color: white; font-size: 24px; text-transform: capitalize; font-family: 'Poppins', sans-serif; 
+}
+.map img {
+    margin: 10px 0 20px 0px; padding: 0px 4px 0 0px; width:36px; height:2px;
+}
+.map-pic img{
+    margin: 30px 0 0px 10px; padding: 0px 50px 10px 0; width: 350px; height:140px; position: absolute;
+}
+
+.news{
+    margin: 60px 0 0 50px; padding: 0px 0 0 80px; color: white; font-size: 24px; text-transform: capitalize; font-family: 'Poppins', sans-serif; 
+}
+.news img {
+    margin: 0px 0 20px 0px; padding: 0px 0px 0 0; width:36px; height:2px;
+}
+.form{
+    margin:0px; padding:0px;
+}
+.form button {
+    margin: 30px 0px 0px 5px; padding: 0 0 0 0 ; width: 120px; height: 50px; font-size: 20px; border: 0px; background-color: white; color: black;
+}
+.form button:hover {
+    background-color: #f12525; transition: 0.8s; color: #ffffff;
+}
+.form input{
+    margin:10px 0 0 -105px; padding:0px 0 0 0; background: transparent; outline: 0; border-right: 0px; border-bottom:1px solid; color: #888888; width: 270px;
+} 
+.form label{
+    margin:0px 0 0 0; padding:0 0 0 0px; font-size: 18px; color: #f12525;
+}
+.form label{
+    opacity: 0;
+}
+.form label:hover{
+    opacity: 1;
+    transition: 1s;
+}
+.right-bg {
+    margin: 0px; padding: 0px; background: black; height: 75px;  position: relative;
+}
+.right-bg h3{
+    margin: 0px 0px 0 -69px; padding: 30px 0 0 170px; text-transform: capitalize; font-size: 12px; color: white; position: absolute; left: 0px;
+}
+.right-bg span{
+    color: #f12525;
+}
+.home-links {
+    margin: 10px 20px 0 640px; padding: 15px 0px 0 80px; 
+}
+.home-links a {
+    margin: 20px 0 0px 0px; padding: 80px 0 0 16px; font-size: 12px; color:#787777; text-align: center; text-transform: capitalize;
+}
+.home-links a:hover{
+    color: #f12525; transition: 0.5s;
+}
+
+/*-----------------------------
+    Footer End
+------------------------------*/
+/*-----------------------------------
+    welcome to our company profile
+-------------------------------------*/
+.main{
+    margin:10px 0 20px 60px; padding: 0px; position: relative;
+}
+.our-pro{
+    margin:0px 0px 0px -30px; padding: 0px;
+}
+.our-pro img{
+    margin:20px 0 0 0px; padding: 2px; 
+    width: 600px; height: 350px; position: absolute; 
+    border: 3px solid; color: red; outline: #ccc solid 5px; 
+}
+.zoom{
+    padding: 0px;
+    transition: transform .90s;
+    width: 600px;
+    height: 350px;
+    margin: 0 auto;
+    transition-delay: 0.5s;
+    
+}
+.zoom:hover {
+    transform: scale(1.1);}
+    
+    
+.company-text{
+    margin:0px 0px 0px 0px; padding: 0px; 
+}
+.company-text h1{
+    margin:20px 0px 0px 40px; padding: 0px; 
+    text-align: center; color: black; 
+    text-transform: uppercase; font-size: 30px; 
+    font-weight: bold;
+    font-size: 25px;
+}
+.company-text span{
+    color: red;
+}
+.company-text p{
+    margin:20px 0px 15px 80px; padding: 0px; 
+    font-size: 13px; color: grey; 
+    text-align: left;
+}
+.readmore button{
+    margin:0px 0px 0px 85px; padding: 0px; 
+    width: 130px; height: 50px; border: 0; 
+    background-color: #000; border-radius: 30px;
+    position: relative;
+}
+.readmore button h5{
+    margin:-9px 0px 0px 8px; padding: 0px 20px 0 20px; 
+    font-size: 15px; color: white; text-transform: 
+    capitalize; text-align: center; position: absolute;
+}
+.readmore button:hover{
+    background-color: red; transition: 0.90s;
+}
+
+/*--------------------------------------------
+    welcome to our company profile End
+---------------------------------------------*/
+
+.cat-inner{
+    margin: 0px; padding: 0px; 
+}
+.cat-img{
+    margin: 0px; padding: 0px; width:375px; height:400; color:black;
+}
+
+.logo img{
+    margin: 10px 5px 50px 5px; padding: 14px 0 0 0;
+}
+.socl{
+    margin: 18px -57px 0px 45px; padding: 12px 0 0 14px;
+}
+.socl a{
+    margin: 0 auto; 
+    padding: 10px 10px 10px 10px; 
+    color: red; 
+    background-color:white;
+}
+.socl i{
+    width: 20px; height:20px; text-align: center;
+}
+.socl a:hover{
+    background-color: red; color: white; transition:0.8s;
+}
+
+/*-----------------------------
+    about us page start
+ ------------------------------*/
+.abut-bann{
+    margin: 0px; 
+    padding: 0px 0px 0px 0px;
+    right: 0px;
+    
+}
+.abut-bann img{
+    margin: 0px 0px 0 0; 
+    padding: 0px 0px 0px 0px;
+}   
+.aboutus-text{
+    margin: 0px; 
+    padding: 0px;
+}
+.aboutus-text h2{
+    margin: 50px 0 50px 0;  
+    padding: 0px;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.aboutus-text p{
+    margin: 10px 0 50px 0;  
+    padding: 0px;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+/*-----------------------------
+    about us page end
+------------------------------*/
+
+
+ 
+/*-----------------------------
+    contact us page start
+------------------------------*/
+.contact h5{
+    margin: 35px 50px 50px 0;  
+    padding: 0px 0 0 0;
+    color: #202020;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+.contactform input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+.contactform input[type=submit] {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+.contactform input[type=submit]:hover {
+    background-color: red;
+}
+
+
+/*-----------------------------
+    basket page start
+------------------------------*/
+
+.ybaskt-bg{
+    margin: 0px; padding: 0px;
+    background-color: #eeeeee;
+    width: 778px; height: 65px;
+    border-radius: 5px; 
+    position: relative; 
+}
+ 
+.ybaskt-bg h2{
+    margin: 20px 0 0 20px; padding: 0px;
+    position: absolute;
+    color: #202020;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase; 
+    position: absolute;  
+}
+
+.ybaskt-bg02{
+    margin: 30px 0 20px 0; padding: 0px;
+    background-color: #eeeeee;
+    width: 778px; height: 156px;
+    border-radius: 5px;
+    position: relative; 
+}
+
+.ybaskt-bg02 img{
+    margin: 30px 0 0 20px; padding: 0px;
+    position: absolute;
+}
+
+.ybaskt-bg02 h2{
+    margin: 27px 0 0 100px; padding: 0px;
+    position: absolute;
+    color: #202020;
+    font-size: 17px;
+    text-decoration: none;
+    text-transform: capitalize;  
+}
+
+.ybaskt-bg02 p{
+    margin: 50px 0 0 100px; padding: 0px;
+    position: absolute;
+    color: #202020;
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: capitalize;  
+}
+
+.blbx{
+    margin: 0px 0 0px 0; padding: 0px;
+    width: 360px; height: 200px;
+    background-color: black;
+}
+  .summbg{
+    margin: 0px 0 0px 0px; padding: 0px;
+    background-color:#191919;
+    width: 360px; height: 65px;
+    z-index: 1;
+}
+
+.blbx h2{
+    margin: 0px 0 0px 25px; padding: 20px 0 0 0;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.quant-bg{
+    margin: 5px 0 0px 0px; padding: 0px 0 0 0;
+    background-color:#191919;
+    width: 360px; height: 65px;
+    z-index: 1;
+}
+.quant-bg h2{
+    margin: 0px 0 0px 25px; padding: 20px 0 0 0;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.quant-bg p{
+    margin: -25px 0 0px 175px; padding: 0px 0 0px 150px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+}
+
+/*-----------------------------
+    basket page End
+------------------------------*/
+
+
+
+/*-----------------------------
+    inquriy page start
+------------------------------*/
+
+.inqury-butn button{
+    margin: 5px 0 0px 20px; padding: 0px 0 0 0;
+    background-color: white;
+    width: 320px; height: 50px;
+    border-radius: 5px;
+}
+.inqury-butn button:hover{
+    background-color: red; transition: 0.90s;
+}
+
+.inqury-butn h2{
+    margin: 0px 0 0px 0px; padding: 0px 0 0 0;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.inqury-butn h2:hover{
+    color: black; transition: 0.90s;
+}
+
+/*-----------------------------
+    inquriy page end
+------------------------------*/
+
+
+
+
+
+/*-----------------------------
+    product page start
+------------------------------*/
+.leftmnue{
+    margin: 0px 0 0px 0; padding: 0px;
+    width: 262px; height: 200px;
+    background-color: black;
+}
+.ourcat_text{
+    margin: 0px 0 0px 0px; padding: 0px;
+    background-color:#191919;
+    width: 262px; height: 65px;
+    z-index: 1;
+}
+.leftmnue h2{
+    margin: 0px 0 0px 25px; padding: 20px 0 0 0;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+}
+ .ourcat_t{
+    margin: 5px 0 0px 0px; padding: 0px 0 0 0;
+    background-color:#191919;
+    width: 262px; height: 65px;
+    z-index: 1;
+}
+.ourcat_t h3{
+    margin: 0px 0 0px 0px; padding: 20px 0 0 0;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.ourcat_text{
+    margin: 5px 0 0px 0px; padding: 0px 0 0 0;
+    background-color:#191919;
+    width: 262px; height: 65px;
+    z-index: 1;
+}
+.ourcat_text:hover{
+    margin: 5px 0 0px 0px; padding: 0px 0 0 0;
+    background-color:red;
+    width: 262px; height: 65px;
+    z-index: 1;
+    transition: 0.90s;
+}
+.ourcat_text h3{
+    margin: 0px 0 0px 0px; padding: 20px 0 0 0;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+.ourcat_text h2{
+    margin: 0px 0 0px 25px; padding: 20px 0 0 0;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+}
+.ourcat_text p{
+    margin: -25px 0 0px 175px; padding: 0px 0 0px 150px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+}
+
+
+.prod {
+    margin: 0px; padding:10px;
+    position: relative;
+}
+.prod-text {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%);
+    
+}
+.prod-text h2{
+    margin: 0px; padding:0px; 
+    font-size:13px; color: black; 
+    text-transform: capitalize; 
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold; text-align: center;
+}
+.prod-text h3{
+    margin: 0px; padding:10px; 
+    font-size:13px; color: black; 
+    text-transform: capitalize; 
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold; text-align: center;   
+}
+.prod{
+    margin: 0px 0 0 0; padding: 0px; left: -2px;
+}
+.prod img {
+    border-radius: 5px; border: 1px solid grey;
+}
+.prod img:hover{
+    border-radius: 5px; border: 1px solid #f12525; transition: 0.45s;
+}
+
+/*-----------------------------
+    inquriy page end
+------------------------------*/
+
+
+
+/*-----------------------------
+    detail page start
+------------------------------*/
+
+
+.pagination {
+    display: inline-block;
+}
+  
+.pagination a {
+    color: black;
+    float: right;
+    padding: 8px 16px;
+    text-decoration: none;
+    
+}
+  
+.pagination a.active {
+    background-color: black;
+    color: white;
+}
+.pagination a:hover:not(.active) {background-color: red;
+}
+  
+
+* {box-sizing: border-box;}
+
+.img-magnifier-container {
+  position: relative;
+}
+
+.img-magnifier-glass {
+  position: absolute;
+  border: 3px solid #000;
+  border-radius: 50%;
+  cursor: none;
+  /*Set the size of the magnifier glass:*/
+  width: 100px;
+  height: 100px;
+}
+
+.detailtst hr{
+    height: 1px;
+    width: 570px;
+}
+.detailtst h2{
+  margin: 0px 0 0 0; padding: 0px;
+  color: #000; font-size: 15px;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.detailtst p{
+    margin: 0px 0 0 0; padding: 0px;
+    color: #000; font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.detailtst p{
+    margin: 0px 0 0 0; padding: 0px;
+    color: #000; font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+  
+.descrip h3{
+    margin: 30px 0 0 0; padding: 0px;
+    color: red; font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.descrip p{
+    margin: 20px 0 0 0; padding: 0px;
+    color: grey; font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.application h3{
+    margin: 20px 0 0 0; padding: 0px;
+    color: black; font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.application p{
+    margin: 20px 0 0 0; padding: 0px;
+    color: grey; font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.optinal label{
+    margin: 60px 0px 0px 310px; padding: 0px;
+    color: #000; font-size: 14px;
+    text-transform: capitalize;
+    position: absolute;
+    font-weight: bold;
+}
+
+.optinal select {
+    margin: 90px 0 0 0px; padding: 0px;
+    width: 265px; height: 30px;
+    position: absolute;
+}
+
+.optinal2 label{
+    margin: 60px 0px 0px 0px; padding: 0px;
+    color: #000; font-size: 14px;
+    text-transform: capitalize;
+    font-weight: bold;
+    position: absolute;
+}
+
+.optinal2 select {
+    margin: 90px 0 0 310px; padding: 0px;
+    width: 265px; height: 30px;
+    position: absolute;
+    
+}
+
+.quantity label{
+    margin: 150px 0 10px 0px; padding: 0px;
+    font-weight: bold; font-size: 14px;
+}
+
+.quantity input{
+    margin: 0px 0 0px 0px; padding: 5px;
+    width: 100px;
+}
+
+.buttn button{
+    margin: 30px 0 0px 0px; padding: 15px;
+    background-color: #000; font-weight: 600; 
+    text-transform: capitalize; color: white;
+    font-size: 14px;
+    border: 0px;
+    position: relative;
+}
+
+.buttn button:hover{
+    background-color: red;
+    transition: 0.45s;
+    color: black;
+}
+.go-back button{
+    margin: -51px 0px 0px 140px; padding: 15px;
+    background-color: #000; font-weight: 600; 
+    text-transform: capitalize; color: white;
+    font-size: 14px;
+    border: 0px;
+    position: absolute;
+}
+.go-back button:hover{
+    background-color: red;
+    transition: 0.45s;
+    color: black;
+}
+.realated-bg{
+    margin: 0px 0 20px 0; padding: 30px;
+    background-color: #000;
+    position: relative;  
+}
+.realated-bg h2{
+    margin: -10px 0 0px 0; padding: 0px;
+    color: white; font-size: 18px;
+    position: absolute;
+    text-transform: capitalize;   
+}
+.rel-img {
+    margin: 0px; padding:0px;
+    position: relative;
+}
+.rel-text {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%);
+    
+}
+.rel-text h2{
+    margin: 0px; padding:0px; 
+    font-size:13px; color: black; 
+    text-transform: capitalize; 
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold; text-align: center;
+}
+.rel-text h3{
+    margin: 0px; padding:10px; 
+    font-size:13px; color: black; 
+    text-transform: capitalize; 
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold; text-align: center;   
+}
+.rel-img {
+    margin: 0px 0 0 0; padding: 0px; left: 0px;
+}
+.rel-img {
+    border-radius: 5px; border: 1px solid grey;
+}
+.rel-img:hover{
+    border-radius: 5px; border: 1px solid #f12525; transition: 0.45s;
+}
+
+
+
+
+
+/*-----------------------------
+  -----------------------------
+       detail page end
+ -----------------------------
+ ------------------------------*/
+
+
+ 
+ 
+ 
+ /*-----------------------------
+  -----------------------------
+  media queries devices sized
+ @media only screen and (min-width:280px) and (max-width:359px)                                                                         @media only screen and (min-width:360px) and (max-width:479px)                                                                       
+ @media only screen and (min-width:480px) and (max-width:666px)                                                                      
+ @media only screen and (min-width:667px) and (max-width:767px)                                                                       
+ @media only screen and (min-width:768px) and (max-width:991px)
+ 
+ @media only screen and (min-width:992px) and (max-width:1199px)
+ -----------------------------
+ ------------------------------*/

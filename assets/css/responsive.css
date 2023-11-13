@@ -1,0 +1,420 @@
+@media only screen and (min-width:280px) and (max-width:359px) {
+    body{margin: 0px; padding: 0px; overflow-x:hidden;}
+    .top-bar{position:inherit; background-color:blue}
+    .logo img{margin:0px auto !important;}
+    .logo{margin: 0px 0px 0px 26px !important; width:auto; text-align:left}
+    .menu{margin:0px;}
+    .socl{margin:5px 0px 25px 0px; text-align:center;}
+    .line img{margin:20px 0 0 0; padding:0px}
+    .cstm-box{margin:0px; width:auto; height:auto; padding:0px 0 20px 0;}
+    .cstm-box02{margin:0px; width:auto; height:auto; padding:0px 0 20px 0}
+    .cstm-box03{margin:0px; width:auto; height:auto; padding:0px 0 20px 0; border-top:0px; border-left: 2px solid;}
+    .cstm-box04{margin:0px 0px 10px 0px; width:auto; height:auto; padding:0px 0 20px 0; border-left: 2px solid;}
+    .cat-img{ margin: 0px 0px 10px -9px; width: auto; height: auto; padding: 0 auto;}
+    .wel-bg{margin: 0px; padding: 0px; width: 100%; height: auto;}
+    .wel-bg p{margin: 20px 0px 0px -7px; width: auto; height: auto; padding: 0px; font-size: 9px;}
+    .rmbt button{margin: 0px 0px 0px 45px; width: auto; height: auto; padding: 15px;}
+    .video{margin: 0px 0px 0px 0px; padding: 0px;}
+    .video img{margin: 10px 4px 20px 0px; width: auto; height: auto;}
+    .heading{margin: 0px; width: auto; height: auto; padding: 0px;}
+    .heading img{margin: -150px 0px 0px 12px; width: auto; height: auto; padding: 0px;}
+    .heading h6{margin: -95px 0px 0px 140px; width: auto; height: auto; padding: 0px;}
+    .heading h2{margin: 10px 0px 0px 10px; width: auto; height: auto; padding: 0px;}
+    .slider{margin:0px; padding:0px; width: auto;}
+    .zoom{margin: 0px 0px 0px 0px; width: auto; height: auto; padding: 0px;}
+    .our-pro img{margin: -34px 0px 0px -15px; width: auto; height: auto; padding: 0px;}
+    .company-text h1{margin: 170px 70px 0px 0px; padding: 0px; font-size: 14px;}
+    .company-text p{margin: 5px 0px 0px -60px; padding: 0px; font-size: 12px; text-align: center;}
+    .readmore button{margin: 0 auto; padding: 0px;}
+    .testmal{margin:-35px 0px 0px 0px; padding:0px;}
+    .team-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .tm{margin: 53px 0px 0px 0px; padding: 0px auto; width: auto; height: auto;}
+    .tm img{margin: 0px 0px 0px 47px; padding: 0px 98px 0px 0px; height: auto; width: 100%;}
+    .tm h2 {margin: 8px 0 0px 0px; padding: 305px 0px 0px 28px; text-align: center;}
+    .tm p{margin: 5px 0px 0px 3px; padding: 0px; font-size: 10px; text-align: center;}
+    .rm button{margin: 0px 29px 0px 0px; padding: 9px; width: auto; height: auto; float: right;}
+    .tm01{margin: 0px 0px 0px 53px; padding: 5px 0px 0px 0px; width: auto; height: auto;}
+    .tm01 img{margin: 0px 0px 0px 0px; padding: 25px 101px 0px 0px; width: 100%;}
+    .tm01 h2{margin: 144px 0px 0px 25px; padding: 188px 60px 0px 0px; text-align: center;}
+    .tm01 p{margin: 10px 0px 0px -40px; padding: 0px; font-size: 10px; text-align: center;}
+    .rm01 button{margin: 0px 39px 13px 0px; padding: 9px; width: auto; height: auto; float: right;}
+    .foot-bg{margin: 0px; padding: 0px; width: 100%; height: auto;}
+    .payment img{margin: 10px 0px 0px 0px; padding: 10px; width: auto; height: auto;}
+    .map{margin: 0px 0px 0px 7px; padding: 0 auto;}
+    .gmap_canvas iframe{margin:0px; padding:0px; width: 250px;}
+    .form input{ margin: auto; padding: auto; width: 100%;}
+    .news{margin: 60px 0px 20px 7px; padding: 0px;}
+    .right-bg {margin: 0px; padding: 0px; width: 100%; height: auto;}
+    .right-bg h3{margin:20px 0px 0px 0px; padding:0px; text-align: center;}
+    .home-links{margin: 63px 0px 20px 0px; padding: 0px; text-align: center;}
+    .home-links a{margin: 20px 0 0px 0px; padding: 0px 0px 0px 5px; font-size: 12px;}
+}
+    
+
+
+
+@media only screen and (min-width:360px) and (max-width:479px) {
+body{margin: 0px; padding: 0px; overflow-x: hidden;}
+.top-bar{position:inherit; background-color:#000}
+.logo img{margin:0px auto !important;}
+.logo{margin: 0px 17px 0px auto !important; width:auto; text-align:center}
+.menu{margin:0px;}
+.socl{margin:10px auto 15px auto; text-align:center;}
+.line img{margin:20px 0 0 0; padding:0px}
+.cstm-box{margin:0px; width:auto; height:auto; padding:0px 0 20px 0}
+.cstm-box02{margin:0px; width:auto; height:auto; padding:0px 0 20px 0}
+.cstm-box03{margin:0px; width:auto; height:auto; padding:0px 0 20px 0; border-top:0px; border-left: 2px solid;}
+.cstm-box04{margin:0px 0px 10px 0px; width:auto; height:auto; padding:0px 0 20px 0; border-left: 2px solid;}
+.cat-img{ margin: 0px 0px 10px 0px; width: auto; height: auto; padding: 0 auto;}
+.wel-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+.wel-bg p{margin: 20px 0px 0px -7px; width: auto; height: auto; padding: 0px; font-size: 9px;}
+.rmbt button{margin: 0px 0px 0px 45px; width: auto; height: auto; padding: 15px;}
+.video{margin: 0px 0px 0px 0px; padding: 0px;}
+.video img{margin: 10px 0px 20px 0px; width: auto; height: auto; padding: 0px;}
+.heading{margin: 0px; width: auto; height: auto; padding: 0px;}
+.heading img{margin: -150px 0px 0px 12px; width: auto; height: auto; padding: 0px;}
+.heading h6{margin: -95px 0px 0px 140px; width: auto; height: auto; padding: 0px;}
+.heading h2{margin: 10px 0px 0px 10px; width: auto; height: auto; padding: 0px;}
+.swiper-container{margin: 0px; width: auto; padding: 0px; right: 0%;}
+.slider{margin:0px; padding:0px; width: auto;}
+.feure-img img{margin: 0px; padding: 0px; width: 500px;}
+.zoom{margin: 0px 0px 0px 0px; width: auto; height: auto; padding: 0px;}
+.our-pro img{margin: -34px 0px 0px -15px; width: auto; height: auto; padding: 0px;}
+.company-text h1{margin: 250px 70px 0px 0px; padding: 0px auto; font-size: 14px;}
+.company-text p{margin: 5px 0px 0px -60px; padding: 0px; font-size: 12px; text-align: center;}
+.readmore button{margin: 0px 0px 0px 50px; padding: 0px;}
+.testmal{margin:-35px 0px 0px 0px; padding:0px;}
+.team-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+.tm{margin: 53px 0px 0px 0px; padding: 0px auto; width: auto; height: auto;}
+.tm p{margin: 5px 0px 0px 175px; padding: 0px; font-size: 10px;}
+.rm button{margin: 0px 10px 0px -49px; padding: 9px; width: auto; height: auto;}
+.tm01{margin: 0px 0px 0px 53px; padding: 0px; width: auto; height: auto;}
+.tm01 h2{margin: 0px 0px 0px 56px; padding: 0px;}
+.tm01 p{margin: 5px 0px 0px 121px; padding: 0px;font-size: 10px;}
+.rm01 button{margin: 13px; padding: 9px; width: auto; height: auto;}
+.foot-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+.payment img{margin: 10px 0px 0px 0px; padding: 10px; width: auto; height: auto;}
+.map{margin: 0px 0px 0px 7px; padding: 0 auto;}
+.news{margin: 60px 0px 20px 7px; padding: 0px;}
+.right-bg {margin: 0px; padding: 0px; width: auto; height: auto;}
+.right-bg h3{margin:20px 0px 0px 16px !important; padding:0px; text-align: center;}
+.home-links{margin: 63px 0px 20px 0px; padding: 0px; text-align: center;}
+.home-links a{margin: 20px 0 0px 0px; padding: 0px 0px 0px 5px; font-size: 12px;}
+}
+
+
+@media only screen and (min-width:480px) and (max-width:575px) {
+    body{margin: 0px; padding: 0px; overflow-x: hidden;}
+    .top-bar{position:inherit; background-color:skyblue}
+    .logo img{margin:0px auto !important;}
+    .logo{ margin: 0px auto !important; width:auto; text-align:center}
+    .menu{margin:0px;}
+    .menu a{margin:0px auto; padding: 4px;}
+    .socl{margin:10px auto 15px auto; text-align:center;}
+    .line img{margin:20px 0 0 0; padding:0px}
+    .cstm-box{margin:0px; width:auto; height:auto; padding:0px 0 20px 0}
+    .cstm-box02{margin:0px; width:auto; height:auto; padding:0px 0 20px 0}
+    .cstm-box03{margin:0px; width:auto; height:auto; padding:0px 0 20px 0; border-top:0px; border-left: 2px solid;}
+    .cstm-box04{margin:0px 0px 20px 0px; width:auto; height:auto; padding:0px 0 20px 0; border-left: 2px solid;}
+    .cat-img{ margin: 0px 0px 10px 0px; width: auto; height: auto; padding: 0px auto;}
+    .wel-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .wel-bg p{margin: 20px 0px 0px -7px; width: auto; height: auto; padding: 0px; font-size: 9px;}
+    .rmbt button{margin: 0px 0px 0px 45px; width: auto; height: auto; padding: 15px;}
+    .video{margin: 0px 0px 0px 0px; padding: 0px;}
+    .video img{margin: 10px 0px 20px 0px; width: auto; height: auto; padding: 0px;}
+    .heading{margin: 0px; width: auto; height: auto; padding: 0px;}
+    .heading img{margin: -150px 0px 0px 12px; width: auto; height: auto; padding: 0px;}
+    .heading h6{margin: -95px 0px 0px 140px; width: auto; height: auto; padding: 0px;}
+    .heading h2{margin: 10px 0px 0px 10px; width: auto; height: auto; padding: 0px;}
+    .swiper-container{margin: 0px; width: auto; padding: 0px; right: 0%;}
+    .slider{margin:0px; padding:0px; width: auto;}
+    .zoom{margin: 0px 0px 0px 0px; width: auto; height: auto; padding: 0px;}
+    .our-pro img{margin: -34px 0px 0px -15px; width: auto; height: auto; padding: 0px; overflow: hidden;}
+    .company-text h1{margin: 330px 70px 0px 0px; padding: 0px auto; font-size: 14px;}
+    .company-text p{margin: 5px 0px 0px -60px; padding: 0px; font-size: 12px; text-align: center;}
+    .readmore{margin: 0 0 0 -52px !important; padding: 0px; text-align: center;}
+    .readmore button{margin: 0px 0px 0px 0px; padding: 0px;}
+    .testmal{margin:-35px 0px 0px 0px; padding:0px;}
+    .team-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .tm{margin: 53px 0px 0px 0px; padding: 0px auto; width: auto; height: auto;}
+    .tm p{margin: 5px 0px 0px 175px; padding: 0px; font-size: 10px;}
+    .rm{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .rm button{margin: 45px 9px 32px 179px; padding: 15px 0px 15px 0px; width: auto; height: auto; float: left;}
+    .tm01{margin: 0px 0px 0px 53px; padding: 0px; width: auto; height: auto;}
+    .tm01 h2{margin: 0px 37px 0px 0px; padding: 19px 0px 0px 0px}
+    .tm01 p{margin: 5px 0px 0px 132px; padding: 0px;font-size: 10px;}
+    .rm01 button{margin: 14px 9px 32px 21px; padding: 15px 0px 15px 0px; width: auto; height: auto;}
+    .foot-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .payment img{margin: 10px 0px 0px 0px; padding: 10px; width: auto; height: auto;}
+    .map{margin: 0px 0px 0px 7px; padding: 0 auto;}
+    .news{margin: 60px 0px 20px 7px; padding: 0px;}
+    .right-bg {margin: 0px; padding: 0px; width: auto; height: auto;}
+    .right-bg h3{margin:36px 0px 0px 26px; padding:0px; font-size: 11px;}
+    .home-links{margin: 63px 0px 20px 0px; padding: 0px; text-align: center;}
+    .home-links a{margin: 0px 0 21px 8px; padding: 0px 0px 0px 5px; font-size: 12px; float: left;}
+}
+
+
+@media only screen and (min-width:576px) and (max-width:666px) {
+    body{margin: 0px; padding: 0px; overflow-x: hidden;}
+    .top-bar{position:inherit; background-color:#ae4122}
+    .logo img{margin:10px auto auto 191px !important; overflow: hidden;}
+    .logo{ margin: 0px 0px 0px 23px !important; width:auto; text-align:center}
+    .menu{margin:73px auto; padding: 0px;}
+    .menu a{margin:0px auto; padding: 4px;}
+    .socl{margin:154px 0px 0px -416px; text-align:center;}
+    .line img{margin:20px 0 0 0; padding:0px}
+    .line h1{margin: 0 0 0 0px; padding: 5px 0 0 0px; font-family: 'Poppins', sans-serif; font-weight: bold; font-size: 20px;}
+    .line p{margin: 8px -405px 0px 0px; padding: 0px; font-size: 10px; width: auto;}
+    .line h2{margin: 0 0 0 0px; padding: 5px 0 0 0px; font-family: 'Poppins', sans-serif; font-weight: bold; font-size: 20px;}
+    .cstm-box{margin:318px -226px 0 -133px; width:auto; padding:0px;}
+    .cstm-box02{margin:0px -226px 0 -133px; width:auto; padding:0px;}
+    .cstm-box03{margin: 658px -1px 0 -313px; width: auto; padding: 0px; border-top: 0px; border-left: 2px solid; border-color: grey;}
+    .cstm-box04{margin:0px -1px 24px -313px; width:auto; padding:0px; border-left: 2px solid; border-color: grey;}
+    .cat-img{ margin: 0px 0px 10px 0px; width: auto; height: auto; padding: 0 auto;}
+    .wel-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .wel-bg p{margin: 59px 0px 0px 0px; width: auto; height: auto; padding: 0px; font-size: 9px;}
+    .rmbt button{margin: 0px 0px 10px 50px; width: auto; height: auto; padding: 15px;}
+    .video{margin: 0px 0px 0px 0px; padding: 0px;}
+    .video img{margin: 50px 0px 20px 0px; width: auto; height: auto; padding: 0px;}
+    .heading{margin: 0px; width: auto; height: auto; padding: 0px;}
+    .heading img{margin: -150px 0px 0px 12px; width: auto; height: auto; padding: 0px;}
+    .heading h6{margin: -95px 0px 0px 140px; width: auto; height: auto; padding: 0px;}
+    .heading h2{margin: 10px 0px 0px 10px; width: auto; height: auto; padding: 0px;}
+    .swiper-container{margin: 0px; width: auto; padding: 0px; right: 0%;}
+    .slider{margin:0px; padding:0px; width: auto;}
+    .zoom{margin:0px; height: auto; padding: 0px; width: auto;}
+    .zoom:hover {transform: scale(1.1); width:100%;}
+    .our-pro{margin: -37px -273px 0px 10px !important; padding: 0px;}
+    .our-pro img{margin:0px 53px 0px -36px; height: auto; padding: 0px; width: auto; position: inherit;}
+    .company-text{margin: 0px 0px 0px -236px; padding: 0px;}
+    .company-text h1{margin: 300px 86px 0px 0px; padding: 0px; font-size: 20px; text-align: center;}
+    .company-text p{margin: 15px 0px 0px -31px; padding: 0px; font-size: 15px; text-align: center; width:100%;}
+    .readmore button{margin: 0px 0px 0px 139px; padding: 0px;}
+    .testmal{margin:-35px 0px 0px 0px; padding:0px;}
+    .team-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .tm{margin: 30px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .tm h2{margin: 0px -16px 0px 173px; padding: 11px 0px 0px 0px; font-size: 16px;}
+    .tm p{margin: 5px -271px 0px 174px; padding: 0px; font-size: 14px;}
+    .rm button{margin: 16px -132px 0px -49px; padding: 14px 0px 15px 0px; width: auto; height: auto;}
+    .tm01{margin: 238px 0px 0px -221px; padding: 0px; width: auto; height: auto;}
+    .tm01 h2{margin: 0px 120px 0px 0px; padding: 20px 0px 0px 0px; font-size: 16px;}
+    .tm01 p{margin: 0px 0px 0px 129px; padding: 12px 0px 0px 0px;font-size: 14px;}
+    .rm01{margin: 30px 0 0 116px; padding: 0 30px 50px 0;}
+    .rm01 button{margin: 0px 0px 0px 14px; padding: 0px;}
+    .foot-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .foot-bg img{margin: 58px 0px 0px 200px; padding: 0px; width: auto; height: auto;}
+    .foot-bg p{margin: 22px -406px 0px 0px; padding: 0px; width: auto; height: auto; text-align: center; font-size: 15px;}
+    .payment{margin: 0px 0px 0px 50px; padding: 0px; width: 350px;}
+    .payment img{margin: 10px 0px 0px 0px; padding: 10px; width: auto; height: auto;}
+    .map{margin: 295px 0px 0px 7px; padding: 0px;}
+    .map img{margin: 0px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .news{margin: 618px 0px 25px -214px; padding: 0px;}
+    .news img{margin: 0px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .right-bg {margin: 0px auto; padding: 0px; width: auto; height: auto;}
+    .right-bg h3{margin: 32px 12px 0px 35px !important; text-align: center; padding: 0px 0px 0px 0px; font-size: 16px;}
+    .home-links{margin: 73px 31px 12px 0px !important; padding: 0px; text-align: center;}
+    .home-links a{margin: 20px 0 0px 0px; padding: 0px 0px 0px 29px; font-size: 13px;}
+}
+
+
+@media only screen and (min-width:667px) and (max-width:767px) {
+    body{margin: 0px; padding: 0px; overflow-x: hidden;}
+    .top-bar{position:inherit; background-color:maroon}
+    .logo img{margin:20px auto auto 200px !important; text-align: center;}
+    .logo{width:auto; text-align:center}
+    .menu{margin:77px 0px 41px -29px !important;}
+    .socl{margin:154px auto 30px -450px; text-align:center;}
+    .line{margin:0px; width: auto; padding: 0px; height: auto;}
+    .line h1{margin:0px; padding:0px; font-size: 18px;} 
+    .line p{margin: 0px -405px 0px 0px; padding: 0px; font-size: 10px; width: auto;}
+    .line img{margin:20px 0 0 0; padding:0px}
+    .line h2{margin:10px auto; padding:0px; font-size: 16px;}
+    .cstm-box{margin:268px -225px 0 -134px; width:auto; padding:0px;}
+    .cstm-box02{margin:0px -225px 0 -134px; width:auto; padding:0px;}
+    .cstm-box03{margin: 608px 0px 0 -314px; width: auto; padding: 0px; border-top: 0px; border-left: 2px solid; border-color: grey;}
+    .cstm-box04{margin:0px 0px 20px -314px; width:auto; padding:0px; border-left: 2px solid; border-color: grey;}
+    .cat-img{ margin: 0px 0px 10px 0px; width: auto; height: auto; padding: 0 auto;}
+    .wel-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .wel-bg p{margin: 50px 0px 0px 0px; width: auto; height: auto; padding: 0px; font-size: 9px;}
+    .rmbt button{margin: 0px 0px 10px 50px; width: auto; height: auto; padding: 15px;}
+    .video{margin: 0px 0px 0px 0px; padding: 0px;}
+    .video img{margin: 50px 0px 20px 0px; width: auto; height: auto; padding: 0px;}
+    .heading{margin: 0px; width: auto; height: auto; padding: 0px;}
+    .heading img{margin: -150px 0px 0px 12px; width: auto; height: auto; padding: 0px;}
+    .heading h6{margin: -95px 0px 0px 140px; width: auto; height: auto; padding: 0px;}
+    .heading h2{margin: 10px 0px 0px 10px; width: auto; height: auto; padding: 0px;}
+    .swiper-container{margin: 0px; width: auto; padding: 0px; right: 0%;}
+    .slider{margin:0px; padding:0px; width: auto;}
+    .zoom{margin: 0px 0px 0px 0px; height: auto; padding: 0px; width: auto;}
+    .zoom:hover {transform: scale(1.1); width:100%;}
+    .our-pro{margin: -37px -234px 0px -27px; padding: 0px;}
+    .our-pro img{margin: 0px auto; height: auto; padding: 0px; width: auto; position: inherit;}
+    .company-text{margin: 0px 0px 0px -236px; padding: 0px;}
+    .company-text h1{margin: 296px 70px 0px 0px; padding: 0px; font-size: 14px; text-align: center;}
+    .company-text p{margin: 15px 0px 0px -50px; padding: 0px; font-size: 12px; text-align: center;}
+    .readmore button{margin: 0px 0px 0px 144px; padding: 0px;}
+    .testmal{margin:-35px 0px 0px 0px; padding:0px;}
+    .team-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .tm{margin: 30px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .tm h2{margin: 0px -16px 0px 173px; padding: 11px 0px 0px 0px; font-size: 16px;}
+    .tm p{margin: 5px -206px 0px 174px; padding: 0px; font-size: 10px;}
+    .rm button{margin: 30px -132px 0px -49px; padding: 14px 0px 15px 0px; width: auto; height: auto;}
+    .tm01{margin: 238px 0px 0px -220px; padding: 0px; width: auto; height: auto;}
+    .tm01 h2{margin: 0px 121px 0px 0px; padding: 20px 0px 0px 0px; font-size: 16px;}
+    .tm01 p{margin: 0px 0px 0px 126px; padding: 20px 0px 0px 0px;font-size: 10px;}
+    .rm01 button{margin: 0px 0px 0px 17px; padding: 0px;}
+    .foot-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .foot-bg img{margin: 58px 0px 0px 232px; padding: 0px; width: auto; height: auto;}
+    .foot-bg p{margin: 22px -362px 0px 116px; padding: 0px; width: auto; height: auto; text-align: center; font-size: 12px;}
+    .payment{margin: 0px 0px 0px 152px; padding: 0px; width: 250px;}
+    .payment img{margin: 10px 0px 0px 0px; padding: 10px; width: auto; height: auto;}
+    .map{margin: 250px 0px 0px 33px; padding: 0px;}
+    .map img{margin: 0px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .news{margin: 550px 0px 36px -192px; padding: 0px;}
+    .news img{margin: 0px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .right-bg {margin: 0px; padding: 0px; width: auto; height: auto;}
+    .right-bg h3{margin: 0px 0px 0px 15px; padding: 20px; width: auto; height: auto; font-size: 19px; text-align: center;}
+    .home-links{margin: 63px 0px 20px -23px; padding: 0px; text-align: center;}
+    .home-links a{margin: 20px 0 0px 0px; padding: 0px 0px 0px 5px; font-size: 12px;}
+}
+
+
+@media only screen and (min-width:768px) and (max-width:991px){
+    body{margin: 0px; padding: 0px; overflow-x: hidden;}
+    .top-bar{position:inherit; background-color:pink}
+    .logo img{margin:20px auto auto 290px !important; text-align: center;}
+    .logo{width:auto; text-align:center}
+    .menu{margin:77px 0px 41px -29px !important;}
+    .socl{margin:154px auto 30px -575px; text-align:center;}
+    .line{margin:0px; width: auto; padding: 0px; height: auto;}
+    .line h1{margin:12px auto; padding:0px; font-size: 18px;} 
+    .line p{margin: 0px -405px 0px 0px; padding: 0px; font-size: 10px; width: auto;}
+    .line img{margin:20px 0 0 0; padding:0px}
+    .line h2{margin:10px auto; padding:0px; font-size: 16px;}
+    .cstm-box{margin:199px -240px 0 -238px; width:auto; padding:0px;}
+    .cstm-box02{margin:0px -240px 0 -238px; width:auto; padding:0px;}
+    .cstm-box03{margin: 539px 0px 0 -478px; width: auto; padding: 0px; border-top: 0px; border-left: 2px solid; border-color: grey;}
+    .cstm-box04{margin:0px 0px 25px -478px; width:auto; padding:0px; border-left: 2px solid; border-color: grey;}
+    .cat-img{ margin: 0px 0px 10px 0px; width: auto; height: auto; padding: 0 auto;}
+    .wel-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .wel-bg p{margin: 50px 0px 0px 0px; width: auto; height: auto; padding: 0px; font-size: 9px;}
+    .rmbt button{margin: 0px 0px 10px 50px; width: auto; height: auto; padding: 15px;}
+    .video{margin: 0px 0px 0px 0px; padding: 0px;}
+    .video img{margin: 50px 0px 20px 0px; width: auto; height: auto; padding: 0px;}
+    .heading{margin: 0px; width: auto; height: auto; padding: 0px;}
+    .heading img{margin: -150px 0px 0px 12px; width: auto; height: auto; padding: 0px;}
+    .heading h6{margin: -95px 0px 0px 140px; width: auto; height: auto; padding: 0px;}
+    .heading h2{margin: 10px 0px 0px 10px; width: auto; height: auto; padding: 0px;}
+    .swiper-container{margin: 0px; width: auto; padding: 0px; right: 0%;}
+    .slider{margin:0px; padding:0px; width: auto;}
+    .zoom{margin: 0px 0px 0px 0px; height: auto; padding: 0px; width: auto;}
+    .zoom:hover {transform: scale(1.1); width:100%;}
+    .our-pro{margin: -37px -253px 0px -103px; padding: 0px;}
+    .our-pro img{margin:16px 0 0 71px; height: auto; padding: 0px; width: auto; position: inherit;}
+    .company-text{margin: 0px 0px 0px -236px; padding: 0px;}
+    .company-text h1{margin: 438px 147px 0px 0px; padding: 0px; font-size: 20px; text-align: center;}
+    .company-text p{margin: 15px 0px 0px -58px; padding: 0px; font-size: 15px; text-align: center; width:100%;}
+    .readmore button{margin: 0px 0px 0px 144px; padding: 0px;}
+    .testmal{margin:-35px 0px 0px 0px; padding:0px;}
+    .team-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .tm{margin: 30px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .tm h2{margin: 0px -16px 0px 173px; padding: 11px 0px 0px 0px; font-size: 16px;}
+    .tm p{margin: 5px -360px 0px 174px; padding: 0px; font-size: 14px;}
+    .rm button{margin: 16px -132px 0px -49px; padding: 14px 0px 15px 0px; width: auto; height: auto;}
+    .tm01{margin: 238px 0px 0px -309px; padding: 0px; width: auto; height: auto;}
+    .tm01 h2{margin: 0px 305px 0px 0px; padding: 20px 0px 0px 0px; font-size: 16px;}
+    .tm01 p{margin: 0px 0px 0px 126px; padding: 20px 0px 0px 0px;font-size: 14px;}
+    .rm01 button{margin: 9px 0px 0px 17px; padding: 0px;}
+    .foot-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .foot-bg img{margin: 58px 0px 0px 260px; padding: 0px; width: auto; height: auto;}
+    .foot-bg p{margin: 22px -362px 0px 125px; padding: 0px; width: auto; height: auto; text-align: center; font-size: 12px;}
+    .payment{margin: 0px 0px 0px 196px; padding: 0px; width: 250px;}
+    .payment img{margin: 10px 0px 0px 0px; padding: 10px; width: auto; height: auto;}
+    .map{margin: 250px 0px 0px 7px; padding: 0px;}
+    .map img{margin: 0px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .news{margin: 550px 0px 36px -290px; padding: 0px;}
+    .news img{margin: 0px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .right-bg {margin: 0px; padding: 0px; width: auto; height: auto;}
+    .right-bg h3{margin: 22px 0px 0px 156px !important; font-size: 18px; text-align: center; padding: 0px 150px 0px 0px;}
+    .home-links{margin: 63px 22px 20px 0px !important; padding: 0px; text-align: center;}
+    .home-links a{margin: 20px 0px 0px 0px; padding: 0px 0px 0px 40px; font-size: 12px;}
+}
+
+
+
+@media only screen and (min-width:992px) and (max-width:1199px){
+    body{margin: 0px; padding: 0px; overflow-x: hidden;}
+    .top-bar{position:inherit; background-color:#290101}
+    .logo img{margin:11px auto auto 441px !important; text-align: center;}
+    .logo{width:auto; text-align:center}
+    .menu{margin:99px -175px 0px -38px !important;}
+    .menu a{margin:0px padding:0px; font-size: 18px;}
+    .socl{margin:154px auto 30px -692px; text-align:center;}
+    .line{margin:0px; width: auto; padding: 0px; height: auto;}
+    .line h1{margin:23px auto; padding:0px; font-size: 18px;} 
+    .line p{margin: 0px -405px 0px 0px; padding: 0px; font-size: 10px; width: auto;}
+    .line img{margin:20px 0 0 0; padding:0px}
+    .line h2{margin:10px auto; padding:0px; font-size: 16px;}
+    .cstm-box{margin:221px -319px 0 -397px; width:auto; padding:0px;}
+    .cstm-box02{margin:0px -319px 0 -397px; width:auto; padding:0px;}
+    .cstm-box03{margin: 561px 1px 0 -637px; width: auto; padding: 0px; border-top: 0px; border-left: 2px solid; border-color: grey;}
+    .cstm-box04{margin:0px 1px 25px -637px; width:auto; padding:0px; border-left: 2px solid; border-color: grey;}
+    .cat-img{ margin: 0px 0px 10px 0px; width: auto; height: auto; padding: 0 auto;}
+    .wel-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .wel-bg p{margin: 59px 0px 0px 0px; width: auto; height: auto; padding: 0px; font-size: 15px;}
+    .rmbt button{margin: 0px 0px 10px 50px; width: auto; height: auto; padding: 15px;}
+    .video{margin: 0px 0px 0px 0px; padding: 0px;}
+    .video img{margin: 50px 0px 20px 0px; width: auto; height: auto; padding: 0px;}
+    .heading{margin: 0px; width: auto; height: auto; padding: 0px;}
+    .heading img{margin: -150px 0px 0px 12px; width: auto; height: auto; padding: 0px;}
+    .heading h6{margin: -95px 0px 0px 140px; width: auto; height: auto; padding: 0px;}
+    .heading h2{margin: 10px 0px 0px 10px; width: auto; height: auto; padding: 0px;}
+    .swiper-container{margin: 0px; width: auto; padding: 0px; right: 0%;}
+    .slider{margin:0px; padding:0px; width: auto;}
+    .zoom{margin: 0px 0px 0px 0px; height: auto; padding: 0px; width: auto;}
+    .zoom:hover {transform: scale(1.1); width:100%;}
+    .our-pro{margin: 0px -373px 0px -112px; padding: 0px;}
+    .our-pro img{margin:16px 0 0 71px; height: auto; padding: 0px; width: auto; position: inherit;}
+    .company-text{margin: 0px 0px 0px -236px; padding: 0px;}
+    .company-text h1{margin: 615px 311px 0px 0px; padding: 0px; font-size: 20px; text-align: center;}
+    .company-text p{margin: 15px 0px 0px -163px; padding: 0px; font-size: 15px; text-align: center; width:100%;}
+    .readmore button{margin: 0px 0px 0px 110px; padding: 0px;}
+    .testmal{margin:-35px 0px 0px 0px; padding:0px;}
+    .team-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .tm{margin: 30px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .tm h2{margin: 0px -16px 0px 173px; padding: 11px 0px 0px 0px; font-size: 16px;}
+    .tm p{margin: 5px -360px 0px 174px; padding: 0px; font-size: 14px;}
+    .rm button{margin: 16px -132px 0px -49px; padding: 14px 0px 15px 0px; width: auto; height: auto;}
+    .tm01{margin: 238px 0px 0px -431px; padding: 0px; width: auto; height: auto;}
+    .tm01 h2{margin: 0px 305px 0px 0px; padding: 20px 0px 0px 0px; font-size: 16px;}
+    .tm01 p{margin: 0px 0px 0px 126px; padding: 20px 0px 0px 0px;font-size: 14px;}
+    .rm01 button{margin: 9px 0px 0px 17px; padding: 0px;}
+    .foot-bg{margin: 0px; padding: 0px; width: auto; height: auto;}
+    .foot-bg img{margin: 58px 0px 0px 395px; padding: 0px; width: auto; height: auto;}
+    .foot-bg p{margin: 22px -520px 0px 70px; padding: 0px; width: auto; height: auto; text-align: center; font-size: 20px;}
+    .payment{margin: 0px 0px 0px 301px; padding: 0px; width: 350px;}
+    .payment img{margin: 10px 0px 0px 0px; padding: 10px; width: auto; height: auto;}
+    .map{margin: 295px 0px 0px 7px; padding: 0px;}
+    .map img{margin: 0px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .news{margin: 618px 0px 36px -471px; padding: 0px;}
+    .news img{margin: 0px 0px 0px 0px; padding: 0px; width: auto; height: auto;}
+    .right-bg {margin: 0px; padding: 0px; width: auto; height: auto;}
+    .right-bg h3{margin: 42px 0px 0px 0px !important; text-align: center; padding: 0px 0px 0px 133px; font-size: 20px; position: inherit;}
+    .home-links{margin: 30px 0px 20px 0px !important; padding: 0px 0px 0px 93px; text-align: center;}
+    .home-links a{margin: 0px 0 23px 0px; padding: 0px 0px 0px 29px; font-size: 17px;}
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
